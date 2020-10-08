@@ -38,7 +38,7 @@ Python3 version 3.4
 │          + Customize data of post mode      │
 ├─────────────────────────────────────────────┤
 │ Link: https://github.com/Leeon123/CC-attack │
-└─────────────────────────────────────────────┘''')
+└─────────────────────────────────────────────┘
 
 acceptall = [
 		"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n",
